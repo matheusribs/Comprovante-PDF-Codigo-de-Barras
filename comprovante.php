@@ -57,7 +57,7 @@ $html = '<div align="center">
             <h1 align="center"><b>'.$protocolo.'</b></h1>
             <p align="center" style="margin-top: 1%; margin-left: 2%">___________________________________________________________________________</p>
             <h4 align="center" style="margin-top: 5%;"><b>INFORMAÇÕES SOBRE O AGENDAMENTO:</b></h4>
-            <p align="center">DATA E HORÁRIO DE ENTRADA: <b>'.$data.' às '.$hora.' hrs </b><br> <font color="red">SE O ENVIO NÃO CHEGAR NA DATA AGENDADA, SERÁ RECUSADO.</font></p> </div>
+            <p align="center">DATA E HORÁRIO DE ENTRADA: <b>'.$data.' às '.$hora.' hrs </b><br> <font color="red">ATENÇÃO! SE O ENVIO NÃO CHEGAR NA DATA AGENDADA, SERÁ RECUSADO.</font></p> </div>
             <p align="left" style="margin-top: 10%;">
     </div>
     ';
