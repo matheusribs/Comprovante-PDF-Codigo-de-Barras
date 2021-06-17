@@ -59,6 +59,11 @@ $html = '<div align="center">
             <h4 align="center" style="margin-top: 5%;"><b>INFORMAÇÕES SOBRE O AGENDAMENTO:</b></h4>
             <p align="center">DATA E HORÁRIO DE ENTRADA: <b>'.$data.' às '.$hora.' hrs </b><br> <font color="red">ATENÇÃO! SE O ENVIO NÃO CHEGAR NA DATA AGENDADA, SERÁ RECUSADO.</font></p> </div>
             <p align="left" style="margin-top: 10%;">
+            <h4><b>ENDEREÇO DA EMPRESA</b></h4>
+            SOLUÇÕES EM TECNOLOGIA LTDA.| CNPJ: 78.457.444/0001-27 | RUA TREZE DE MAIO, 1947 ARCO 210 - BELA VISTA, SÃO PAULO - SP, 01327-001 
+            </p>
+            <h4><img src="img/frame.png" width="100px" height="100px" style="margin-top: 30px;"  />
+            <b>ABRA O MAPA NO GOOGLE MAPS</b></h4> <p>ESCANEI O CÓDIGO QR COM SEU CELULAR OU DIGITE O CÓDIGO C9H4+QH NO CAMPO DE PESQUISA DO GOOGLE MAPS</p>
     </div>
     ';
  
