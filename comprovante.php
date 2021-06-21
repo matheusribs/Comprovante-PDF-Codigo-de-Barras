@@ -44,11 +44,12 @@ $pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
 // add a page
 $pdf->AddPage();
 
-
+// Variáveis com parâmetros de exemplo setados, as mesmas poderiam ser GET ou POST trazidos de um formulário, link ou página. 
 $protocolo = '058745698';
 $data = date('d/m/Y');
 $hora = date('H:i');
 
+// Impressão de conteúdo HTML
 $html = '<div align="center">
 <img src="img/logo.png" />
 <h3 align="center" style="margin-top: 40px; margin-left: 1%; margin-bottom: 1%;"><b>COMPROVANTE DE AGENDAMENTO</b></h3><p align="center" style="margin-left: 2%;">___________________________________________________________________________</p>
