@@ -6,7 +6,7 @@
 
 require_once('tcpdf/tcpdf.php');
 
-// create new PDF document
+// criar um novo documento PDF
 $pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
 
 // set document information
